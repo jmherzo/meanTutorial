@@ -1,0 +1,23 @@
+{
+  "name": "meantutorial",
+  "version": "1.0.0",
+  "description": "Mean stack app ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MEAN",
+    "NodeJS"
+  ],
+  "author": "Jesus Manuel Hernandez Zozaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "mongoose": "^4.11.12",
+    "nodemon": "^1.12.1"
+  }
+}
