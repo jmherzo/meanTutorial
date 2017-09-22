@@ -10,4 +10,4 @@ We will be using:
   * Heroku
 
 ### For more information about this tutorial:
-    [MEAN Stack Application (MongoDB, ExpressJS, AngularJS, NodeJS)](https://www.youtube.com/playlist?list=PL3vQyqzqjZ637sWpKvniMCxdqZhnMJC1d)
+[MEAN Stack Application (MongoDB, ExpressJS, AngularJS, NodeJS)](https://www.youtube.com/playlist?list=PL3vQyqzqjZ637sWpKvniMCxdqZhnMJC1d)
