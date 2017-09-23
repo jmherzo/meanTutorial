@@ -14,10 +14,15 @@
   "author": "Jesus Manuel Hernandez Zozaya",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4"
-  },
-  "devDependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
     "mongoose": "^4.11.12",
-    "nodemon": "^1.12.1"
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmherzo/meanTutorial.git"
   }
 }
