@@ -4,3 +4,4 @@ var userApp = angular.module('userApp',['appRoutes','userControllers']);
 // .config(function(){
 //     console.log('Testing user app');
 // });
+
